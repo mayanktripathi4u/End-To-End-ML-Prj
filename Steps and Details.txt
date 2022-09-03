@@ -1,0 +1,21 @@
+End To End ML Project using Docker and GitHub
+------------------------------------------------------
+https://www.youtube.com/watch?v=MJ1vWb1rGwM&t=183s
+
+1. Create your Model. 
+	In my case for simplicity I have created Boston Hosuing Price Model.
+	https://colab.research.google.com/drive/1c8pWZRFhNVNwrdCF1vud0LRerIXNcFqA?authuser=2
+	
+2. Download the Python Notebook and Model created.
+
+3. Create a new Git Repo for End-To-End-ML-Prj
+	https://github.com/mayanktripathi4u/End-To-End-ML-Prj
+	Set the gitignore; git template as Python and Licence as Apache. Include README.
+	
+4. Now get this on to local... using 
+	git clone https://github.com/mayanktripathi4u/End-To-End-ML-Prj.git
+	
+5. Open the Project in VS-Code, which we will be using it for all commits from local.
+
+
+	
